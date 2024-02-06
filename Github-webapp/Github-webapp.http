@@ -1,0 +1,6 @@
+@Github_webapp_HostAddress = http://localhost:5049
+
+GET {{Github_webapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
